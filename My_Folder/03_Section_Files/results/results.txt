@@ -1,0 +1,11 @@
+Total bytecount:7419
+Files list: 
+----------------
+archiove.zip
+files.py
+newfile.txt
+ospathutils.py
+shell.py
+solution.py
+testzip.zip
+textfile.txt.bak
